@@ -1,0 +1,11 @@
+@font-face{
+	font-family: 'Kallem Regular';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Kallem Regular'), url('Kallem.woff') format('woff');
+}
+h1{
+	font-family: 'Kallem Regular';
+	font-weight: 200;
+	color:;
+}
