@@ -1,6 +1,4 @@
 import React, {Fragment} from 'react';
-// import {storage} from "./firebase/firebase.js"
-// import {robots} from './roboFriends'
 
 const Card = (props) => {
 	return (
